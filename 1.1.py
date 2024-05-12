@@ -1,0 +1,1 @@
+print(2567-int(input()))
